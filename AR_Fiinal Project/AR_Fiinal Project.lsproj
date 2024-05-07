@@ -173,18 +173,6 @@
                 "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
                 "front_preview_is_favorite": "false"
-            },
-            "ie_saved_device_transformation": {
-                "eulerRotation": {
-                    "x": "-11.0343685",
-                    "y": "-3.56543541",
-                    "z": "0"
-                },
-                "translation": {
-                    "x": "-1.35393715",
-                    "y": "0",
-                    "z": "13.1266823"
-                }
             }
         },
         "ResourceUiComponent": "",
@@ -224,7 +212,41 @@
             ]
         },
         "RemoteApi::ModelManager": {
-            "api_specs": ""
+            "api_specs": [
+                {
+                    "k": "1715109337291670:4461181",
+                    "v": {
+                        "api_spec_id": "cc47fc32-77d1-455f-a674-da3d520d98e9",
+                        "name": "ChatGPT",
+                        "provider_name": "https:\/\/openai.com\/",
+                        "description": "Build Lenses with LLM AI through the OpenAI ChatGPT API. Take a look at the \"ChatGPT Helper\" asset in the  Asset Library to learn more. Please note, ChatGPT APIs cannot be used in Sponsored Lenses. ",
+                        "host": "ats.snap",
+                        "documentation_url": "https:\/\/platform.openai.com\/docs\/guides\/gpt\/chat-completions-api",
+                        "endpoints": [
+                            {
+                                "ref_id": "completions",
+                                "metadata": {
+                                    "name": "",
+                                    "description": ""
+                                },
+                                "parameters": ""
+                            },
+                            {
+                                "ref_id": "moderations",
+                                "metadata": {
+                                    "name": "",
+                                    "description": ""
+                                },
+                                "parameters": ""
+                            }
+                        ],
+                        "local_only": "false",
+                        "visibility": "external",
+                        "source": "internal",
+                        "restricted_js_api_permissions": ""
+                    }
+                }
+            ]
         },
         "RenderOrderComponent": "",
         "WorldComponent": {

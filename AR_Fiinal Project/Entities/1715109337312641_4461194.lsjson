@@ -1,0 +1,38 @@
+{
+    "1715109337310350:4461187": {
+        "IFileManager": {
+            "path": "Files/File_1715109337310350_4461187.js"
+        }
+    },
+    "1715109337312641:4461194": {
+        "IResourceController": {
+            "name": "ChatGPT API Module",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1715109337312891:4461195",
+            "fileId": "1715109337310350:4461187",
+            "publicId": "1715109337327806:4461205",
+            "expected_hash": "72306d74a54080efc923d79f745d87ba"
+        },
+        "IResourceManager": {
+            "uid": "1715109337312891:4461195",
+            "name": "Files/File_1715109337310350_4461187.js",
+            "flags": 1
+        }
+    },
+    "1715109337312891:4461195": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1715109337327806:4461205": {
+        "IResourceController": {
+            "public": {
+                "path": "ChatGPT API Module.js",
+                "hash": "72306d74a54080efc923d79f745d87ba"
+            }
+        }
+    }
+}

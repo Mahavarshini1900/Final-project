@@ -1,0 +1,17 @@
+{
+    "1715109337291841:4461182": {
+        "IResourceController": {
+            "name": "ChatGPT",
+            "type": 27,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1715109337291670:4461181"
+        },
+        "IResourceManager": {
+            "uid": "1715109337291670:4461181",
+            "name": "",
+            "flags": 0
+        }
+    }
+}
