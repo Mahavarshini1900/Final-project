@@ -1,0 +1,38 @@
+{
+    "1657765502612840:2961044": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327753:426124": {
+        "IResourceController": {
+            "name": "PlayerOwnedObjSpawner",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1657765502612840:2961044",
+            "fileId": "1675391971327913:426277",
+            "publicId": "1675391971328043:426377",
+            "expected_hash": "32aeb7ab0e8038c377d3acebf041fcdd"
+        },
+        "IResourceManager": {
+            "uid": "1657765502612840:2961044",
+            "name": "Files/File_1675391971327913_426277.js",
+            "flags": 1
+        }
+    },
+    "1675391971327913:426277": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327913_426277.js"
+        }
+    },
+    "1675391971328043:426377": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Persistence Examples/Persistent Player Owned/PlayerOwnedObjSpawner.js",
+                "hash": "32aeb7ab0e8038c377d3acebf041fcdd"
+            }
+        }
+    }
+}

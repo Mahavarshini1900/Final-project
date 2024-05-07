@@ -1,0 +1,39 @@
+{
+    "1675391971327750:426097": {
+        "IResourceController": {
+            "name": "Red",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654214881888547:5484545",
+            "fileId": "1675391971327858:426236",
+            "originalId": "1675391971327859:426237",
+            "publicId": "1675391971328049:426398",
+            "expected_hash": "dca360926ce3d4ffe34638c8923a8b56"
+        },
+        "IResourceManager": {
+            "uid": "1654214881888547:5484545",
+            "name": "Files/File_1675391971327858_426236",
+            "flags": 1
+        }
+    },
+    "1675391971327858:426236": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327858_426236"
+        }
+    },
+    "1675391971327859:426237": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327859_426237.lsmat"
+        }
+    },
+    "1675391971328049:426398": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Shared Value Examples/Shared Color Picker/Red.lsmat",
+                "hash": "d786f13d9fd344c87c9463abe58399dd"
+            }
+        }
+    }
+}

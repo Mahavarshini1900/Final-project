@@ -1,0 +1,23 @@
+{
+    "1675391971328073:426482": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Avatar/Materials"
+            }
+        }
+    },
+    "1675391971328273:426602": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328073:426482",
+            "resources": [
+                "1675391971327754:426136",
+                "1675391971327755:426144"
+            ]
+        }
+    }
+}

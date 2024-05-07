@@ -1,0 +1,38 @@
+{
+    "1654713277698205:3605480": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327752:426111": {
+        "IResourceController": {
+            "name": "AirHockeyBall",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654713277698205:3605480",
+            "fileId": "1675391971327888:426259",
+            "publicId": "1675391971328039:426360",
+            "expected_hash": "d03b41efb333f176191ea165d6fcb0bd"
+        },
+        "IResourceManager": {
+            "uid": "1654713277698205:3605480",
+            "name": "Files/File_1675391971327888_426259.js",
+            "flags": 1
+        }
+    },
+    "1675391971327888:426259": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327888_426259.js"
+        }
+    },
+    "1675391971328039:426360": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Air Hockey/Scripts/AirHockeyBall.js",
+                "hash": "d03b41efb333f176191ea165d6fcb0bd"
+            }
+        }
+    }
+}

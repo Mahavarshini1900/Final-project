@@ -1,0 +1,30 @@
+{
+    "1675391971327757:426158": {
+        "IResourceController": {
+            "name": "Pyramid",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1669671758375087:429826",
+            "fileId": "1675391971327981:426324",
+            "originalId": "1675391971327995:426335",
+            "expected_hash": "a609acfdc6bc2d3274b93e1145ccf36b"
+        },
+        "IResourceManager": {
+            "uid": "1669671758375087:429826",
+            "name": "Pyramid",
+            "flags": 0
+        }
+    },
+    "1675391971327981:426324": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327981_426324.oprfb"
+        }
+    },
+    "1675391971327995:426335": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327995_426335.oprfb"
+        }
+    }
+}

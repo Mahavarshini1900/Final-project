@@ -1,0 +1,39 @@
+{
+    "1675391971327971:426317": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327971_426317.fbx"
+        }
+    },
+    "1675391971328056:426425": {
+        "IResourceController": {
+            "public": {
+                "path": "Shared Resources/Meshes/Heart.fbx",
+                "hash": "15448f6b2c2f1b3da4dfc4d382eb5a21"
+            }
+        }
+    },
+    "1675391971328210:426573": {
+        "IResourceController": {
+            "name": "Heart",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1675391971327971:426317",
+            "publicId": "1675391971328056:426425",
+            "expected_hash": "15448f6b2c2f1b3da4dfc4d382eb5a21",
+            "resources": [
+                "1675391971328209:426572",
+                "1675391971327756:426154"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1669671753278750:372207"
+                    }
+                ]
+            }
+        }
+    }
+}

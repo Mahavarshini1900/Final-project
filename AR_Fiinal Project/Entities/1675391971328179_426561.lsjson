@@ -1,0 +1,22 @@
+{
+    "1675391971328051:426403": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Standalone Entity Examples"
+            }
+        }
+    },
+    "1675391971328179:426561": {
+        "IResourceController": {
+            "name": "Standalone Entity Examples",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328051:426403",
+            "resources": [
+                "1675391971327754:426134"
+            ]
+        }
+    }
+}

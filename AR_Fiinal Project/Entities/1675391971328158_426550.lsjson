@@ -1,0 +1,23 @@
+{
+    "1675391971328040:426364": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Events Examples/Complex Message Event"
+            }
+        }
+    },
+    "1675391971328158:426550": {
+        "IResourceController": {
+            "name": "Complex Message Event",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328040:426364",
+            "resources": [
+                "1675391971327752:426114",
+                "1675391971327752:426115"
+            ]
+        }
+    }
+}

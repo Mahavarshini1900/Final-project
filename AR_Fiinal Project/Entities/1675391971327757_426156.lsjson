@@ -1,0 +1,30 @@
+{
+    "1675391971327757:426156": {
+        "IResourceController": {
+            "name": "Sphere 2",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1669671755968807:401044",
+            "fileId": "1675391971327975:426320",
+            "originalId": "1675391971327994:426334",
+            "expected_hash": "1f089e00df8effb6b9810712150c67a1"
+        },
+        "IResourceManager": {
+            "uid": "1669671755968807:401044",
+            "name": "Sphere 2",
+            "flags": 0
+        }
+    },
+    "1675391971327975:426320": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327975_426320.oprfb"
+        }
+    },
+    "1675391971327994:426334": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327994_426334.oprfb"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1675391971327751:426108": {
+        "IResourceController": {
+            "name": "Goal Mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654709714433652:817085",
+            "fileId": "1675391971327883:426255",
+            "originalId": "1675391971327884:426256",
+            "publicId": "1675391971328037:426353",
+            "expected_hash": "fbebc79b4a2eb035026b52b6c8c15ef9"
+        },
+        "IResourceManager": {
+            "uid": "1654709714433652:817085",
+            "name": "Files/File_1675391971327883_426255",
+            "flags": 1
+        }
+    },
+    "1675391971327883:426255": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327883_426255"
+        }
+    },
+    "1675391971327884:426256": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327884_426256.lsmat"
+        }
+    },
+    "1675391971328037:426353": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Air Hockey/Resources/Goal Mat.lsmat",
+                "hash": "3b939a27772a999bc432ec1fcfced66e"
+            }
+        }
+    }
+}

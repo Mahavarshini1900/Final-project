@@ -1,0 +1,30 @@
+{
+    "1675391971327756:426152": {
+        "IResourceController": {
+            "name": "Torus",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1669671751152404:343592",
+            "fileId": "1675391971327964:426312",
+            "originalId": "1675391971327991:426332",
+            "expected_hash": "043175bbbd1dcaa362622543435977dd"
+        },
+        "IResourceManager": {
+            "uid": "1669671751152404:343592",
+            "name": "Torus",
+            "flags": 0
+        }
+    },
+    "1675391971327964:426312": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327964_426312.oprfb"
+        }
+    },
+    "1675391971327991:426332": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327991_426332.oprfb"
+        }
+    }
+}

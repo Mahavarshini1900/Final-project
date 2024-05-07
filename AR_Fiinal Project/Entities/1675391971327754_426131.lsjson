@@ -1,0 +1,39 @@
+{
+    "1675391971327754:426131": {
+        "IResourceController": {
+            "name": "Goal Slider",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1661884109106641:3029962",
+            "fileId": "1675391971327927:426287",
+            "originalId": "1675391971327929:426288",
+            "publicId": "1675391971328036:426352",
+            "expected_hash": "5ef44a86200cd13cfde69c3628c36912"
+        },
+        "IResourceManager": {
+            "uid": "1661884109106641:3029962",
+            "name": "Files/File_1675391971327927_426287",
+            "flags": 1
+        }
+    },
+    "1675391971327927:426287": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327927_426287"
+        }
+    },
+    "1675391971327929:426288": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327929_426288.lsmat"
+        }
+    },
+    "1675391971328036:426352": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Air Hockey/Resources/Goal Slider.lsmat",
+                "hash": "45fc1c6b9f79947398722b292159dba4"
+            }
+        }
+    }
+}

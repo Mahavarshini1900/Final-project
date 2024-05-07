@@ -1,0 +1,39 @@
+{
+    "1675391971327757:426163": {
+        "IResourceController": {
+            "name": "Blue",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1669674049524306:1767255",
+            "fileId": "1675391971328003:426341",
+            "originalId": "1675391971328005:426342",
+            "publicId": "1675391971328077:426498",
+            "expected_hash": "948b45dff434a22823a1d03dc544cd80"
+        },
+        "IResourceManager": {
+            "uid": "1669674049524306:1767255",
+            "name": "Files/File_1675391971328003_426341",
+            "flags": 1
+        }
+    },
+    "1675391971328003:426341": {
+        "IFileManager": {
+            "path": "Files/File_1675391971328003_426341"
+        }
+    },
+    "1675391971328005:426342": {
+        "IFileManager": {
+            "path": "Files/File_1675391971328005_426342.lsmat"
+        }
+    },
+    "1675391971328077:426498": {
+        "IResourceController": {
+            "public": {
+                "path": "Shared Resources/Materials/Blue.lsmat",
+                "hash": "ece04294a9294d59a2212b4eaf74b3fa"
+            }
+        }
+    }
+}

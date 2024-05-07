@@ -1,0 +1,115 @@
+{
+    "1654709485071307:665673": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "1224",
+                "compressedSize": "880",
+                "extension": "mesh",
+                "originalRAM": "1224",
+                "originalSize": "880",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675391971327882:426254"
+        }
+    },
+    "1675391971327751:426107": {
+        "IResourceController": {
+            "name": "Unit Box",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654709485071307:665673",
+            "fileId": "1675391971327880:426253",
+            "publicId": "1675391971328037:426356",
+            "expected_hash": "bac61f0447b825d93b25eb020dfe0e56",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1654709485071307:665673",
+            "name": "Files/File_1675391971327880_426253.mesh",
+            "flags": 1
+        }
+    },
+    "1675391971327880:426253": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327880_426253.mesh"
+        }
+    },
+    "1675391971327882:426254": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327882_426254.mesh"
+        }
+    },
+    "1675391971328037:426356": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Air Hockey/Resources/Unit Box.mesh",
+                "hash": "bac61f0447b825d93b25eb020dfe0e56"
+            }
+        }
+    }
+}

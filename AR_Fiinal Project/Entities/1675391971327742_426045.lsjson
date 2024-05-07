@@ -1,0 +1,17 @@
+{
+    "1675391971327742:426045": {
+        "IResourceController": {
+            "name": "Connected Lens Module",
+            "type": 25,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1648675012893992:527149"
+        },
+        "IResourceManager": {
+            "uid": "1648675012893992:527149",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

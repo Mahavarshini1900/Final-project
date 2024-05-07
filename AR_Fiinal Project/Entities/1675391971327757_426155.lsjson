@@ -1,0 +1,106 @@
+{
+    "1669671755634036:400951": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "82176",
+                "compressedSize": "47042",
+                "extension": "mesh",
+                "originalRAM": "82176",
+                "originalSize": "47042",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675391971327978:426322"
+        }
+    },
+    "1675391971327757:426155": {
+        "IResourceController": {
+            "name": "Sphere",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1669671755634036:400951",
+            "fileId": "1675391971327974:426319",
+            "expected_hash": "627fd5b5a8a1fdee43c92b8338bcc077",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1669671755634036:400951",
+            "name": "Files/File_1675391971327974_426319.mesh",
+            "flags": 1
+        }
+    },
+    "1675391971327974:426319": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327974_426319.mesh"
+        }
+    },
+    "1675391971327978:426322": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327978_426322.mesh"
+        }
+    }
+}

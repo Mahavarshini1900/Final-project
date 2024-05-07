@@ -1,0 +1,17 @@
+{
+    "1675391971327754:426129": {
+        "IResourceController": {
+            "name": "Colocated Landmarks 2D Mesh",
+            "type": 3,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1658178954096530:3961087"
+        },
+        "IResourceManager": {
+            "uid": "1658178954096530:3961087",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

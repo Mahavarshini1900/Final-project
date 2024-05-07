@@ -1,0 +1,38 @@
+{
+    "1652728928347487:387833": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327744:426056": {
+        "IResourceController": {
+            "name": "NetworkUtils",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1652728928347487:387833",
+            "fileId": "1675391971327780:426179",
+            "publicId": "1675391971328058:426433",
+            "expected_hash": "6edf2787a97584fe807dea8879a9412c"
+        },
+        "IResourceManager": {
+            "uid": "1652728928347487:387833",
+            "name": "Files/File_1675391971327780_426179.js",
+            "flags": 1
+        }
+    },
+    "1675391971327780:426179": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327780_426179.js"
+        }
+    },
+    "1675391971328058:426433": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Core/NetworkUtils.js",
+                "hash": "6edf2787a97584fe807dea8879a9412c"
+            }
+        }
+    }
+}

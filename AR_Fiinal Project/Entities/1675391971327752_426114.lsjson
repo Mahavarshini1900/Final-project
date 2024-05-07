@@ -1,0 +1,38 @@
+{
+    "1655409637438077:477471": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327752:426114": {
+        "IResourceController": {
+            "name": "ComplexMessageEvent",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1655409637438077:477471",
+            "fileId": "1675391971327892:426262",
+            "publicId": "1675391971328040:426365",
+            "expected_hash": "491af58c1d67f2b9092345ca2b2406e4"
+        },
+        "IResourceManager": {
+            "uid": "1655409637438077:477471",
+            "name": "Files/File_1675391971327892_426262.js",
+            "flags": 1
+        }
+    },
+    "1675391971327892:426262": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327892_426262.js"
+        }
+    },
+    "1675391971328040:426365": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Events Examples/Complex Message Event/ComplexMessageEvent.js",
+                "hash": "491af58c1d67f2b9092345ca2b2406e4"
+            }
+        }
+    }
+}

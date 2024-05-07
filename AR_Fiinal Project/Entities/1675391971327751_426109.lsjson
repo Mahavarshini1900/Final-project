@@ -1,0 +1,39 @@
+{
+    "1675391971327751:426109": {
+        "IResourceController": {
+            "name": "Paddle Zone",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654710124380804:1052348",
+            "fileId": "1675391971327885:426257",
+            "originalId": "1675391971327887:426258",
+            "publicId": "1675391971328037:426354",
+            "expected_hash": "0be4d0f57e543db52152771a052fbdcc"
+        },
+        "IResourceManager": {
+            "uid": "1654710124380804:1052348",
+            "name": "Files/File_1675391971327885_426257",
+            "flags": 1
+        }
+    },
+    "1675391971327885:426257": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327885_426257"
+        }
+    },
+    "1675391971327887:426258": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327887_426258.lsmat"
+        }
+    },
+    "1675391971328037:426354": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Air Hockey/Resources/Paddle Zone.lsmat",
+                "hash": "b09edef084613223f5f7688505450e7d"
+            }
+        }
+    }
+}

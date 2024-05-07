@@ -1,0 +1,24 @@
+{
+    "1675391971328051:426405": {
+        "IResourceController": {
+            "public": {
+                "path": "Scene Resources"
+            }
+        }
+    },
+    "1675391971328181:426563": {
+        "IResourceController": {
+            "name": "Scene Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328051:426405",
+            "resources": [
+                "1675391971327742:426043",
+                "1675391971327742:426042",
+                "1675391971327742:426044"
+            ]
+        }
+    }
+}

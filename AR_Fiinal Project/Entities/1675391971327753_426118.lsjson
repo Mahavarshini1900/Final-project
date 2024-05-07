@@ -1,0 +1,38 @@
+{
+    "1656109605539793:2970574": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327753:426118": {
+        "IResourceController": {
+            "name": "InstanceColor",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1656109605539793:2970574",
+            "fileId": "1675391971327899:426267",
+            "publicId": "1675391971328046:426386",
+            "expected_hash": "90e9385d8e18c9a1268c530bd58181ee"
+        },
+        "IResourceManager": {
+            "uid": "1656109605539793:2970574",
+            "name": "Files/File_1675391971327899_426267.js",
+            "flags": 1
+        }
+    },
+    "1675391971327899:426267": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327899_426267.js"
+        }
+    },
+    "1675391971328046:426386": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Helpers/InstanceColor.js",
+                "hash": "90e9385d8e18c9a1268c530bd58181ee"
+            }
+        }
+    }
+}

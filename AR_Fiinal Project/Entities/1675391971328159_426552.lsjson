@@ -1,0 +1,24 @@
+{
+    "1675391971328039:426361": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Events Examples"
+            }
+        }
+    },
+    "1675391971328159:426552": {
+        "IResourceController": {
+            "name": "Events Examples",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328039:426361",
+            "resources": [
+                "1675391971328157:426549",
+                "1675391971328158:426550",
+                "1675391971328159:426551"
+            ]
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "1675391971328066:426457": {
+        "IResourceController": {
+            "public": {
+                "path": "Avatar Controller"
+            }
+        }
+    },
+    "1675391971328261:426595": {
+        "IResourceController": {
+            "name": "Avatar Controller",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328066:426457",
+            "resources": [
+                "1675391971327745:426067",
+                "1675391971328261:426594"
+            ]
+        }
+    }
+}

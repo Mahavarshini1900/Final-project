@@ -1,0 +1,38 @@
+{
+    "1665090888557984:732943": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327754:426134": {
+        "IResourceController": {
+            "name": "RolesExample",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1665090888557984:732943",
+            "fileId": "1675391971327934:426292",
+            "publicId": "1675391971328051:426404",
+            "expected_hash": "51745c2404487e3a11d6815fbd90056f"
+        },
+        "IResourceManager": {
+            "uid": "1665090888557984:732943",
+            "name": "Files/File_1675391971327934_426292.js",
+            "flags": 1
+        }
+    },
+    "1675391971327934:426292": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327934_426292.js"
+        }
+    },
+    "1675391971328051:426404": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Standalone Entity Examples/RolesExample.js",
+                "hash": "51745c2404487e3a11d6815fbd90056f"
+            }
+        }
+    }
+}

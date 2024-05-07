@@ -1,0 +1,38 @@
+{
+    "1654213845690309:4518867": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327750:426096": {
+        "IResourceController": {
+            "name": "SyncedColorSelector",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654213845690309:4518867",
+            "fileId": "1675391971327857:426235",
+            "publicId": "1675391971328049:426397",
+            "expected_hash": "7bb2554f5b80d1a1b906f235101d53c8"
+        },
+        "IResourceManager": {
+            "uid": "1654213845690309:4518867",
+            "name": "Files/File_1675391971327857_426235.js",
+            "flags": 1
+        }
+    },
+    "1675391971327857:426235": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327857_426235.js"
+        }
+    },
+    "1675391971328049:426397": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Shared Value Examples/Shared Color Picker/SyncedColorSelector.js",
+                "hash": "7bb2554f5b80d1a1b906f235101d53c8"
+            }
+        }
+    }
+}

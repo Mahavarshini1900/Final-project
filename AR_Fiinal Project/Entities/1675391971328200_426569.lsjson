@@ -1,0 +1,39 @@
+{
+    "1675391971327960:426309": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327960_426309.fbx"
+        }
+    },
+    "1675391971328056:426423": {
+        "IResourceController": {
+            "public": {
+                "path": "Shared Resources/Meshes/Cube.fbx",
+                "hash": "b337ba938950d5a4f0133ca398e6bfed"
+            }
+        }
+    },
+    "1675391971328200:426569": {
+        "IResourceController": {
+            "name": "Cube",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1675391971327960:426309",
+            "publicId": "1675391971328056:426423",
+            "expected_hash": "b337ba938950d5a4f0133ca398e6bfed",
+            "resources": [
+                "1675391971328200:426568",
+                "1675391971327756:426150"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1669671747109514:314777"
+                    }
+                ]
+            }
+        }
+    }
+}

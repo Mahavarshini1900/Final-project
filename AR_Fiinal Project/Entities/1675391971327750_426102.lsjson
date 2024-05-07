@@ -1,0 +1,115 @@
+{
+    "1654228862431184:787890": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "6672",
+                "compressedSize": "2479",
+                "extension": "mesh",
+                "originalRAM": "6672",
+                "originalSize": "2479",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675391971327871:426246"
+        }
+    },
+    "1675391971327750:426102": {
+        "IResourceController": {
+            "name": "Cylinder",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654228862431184:787890",
+            "fileId": "1675391971327870:426245",
+            "publicId": "1675391971328051:426402",
+            "expected_hash": "e1e18c625f15a1bc19836065573f1ff9",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1654228862431184:787890",
+            "name": "Files/File_1675391971327870_426245.mesh",
+            "flags": 1
+        }
+    },
+    "1675391971327870:426245": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327870_426245.mesh"
+        }
+    },
+    "1675391971327871:426246": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327871_426246.mesh"
+        }
+    },
+    "1675391971328051:426402": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Shared Value Examples/Shared Color Picker/Cylinder.mesh",
+                "hash": "e1e18c625f15a1bc19836065573f1ff9"
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1652984745649036:172776": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327746:426069": {
+        "IResourceController": {
+            "name": "SyncEntity",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1652984745649036:172776",
+            "fileId": "1675391971327813:426203",
+            "publicId": "1675391971328059:426436",
+            "expected_hash": "5dbe26b0543dfd4ed1e27bbd08027977"
+        },
+        "IResourceManager": {
+            "uid": "1652984745649036:172776",
+            "name": "Files/File_1675391971327813_426203.js",
+            "flags": 1
+        }
+    },
+    "1675391971327813:426203": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327813_426203.js"
+        }
+    },
+    "1675391971328059:426436": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Core/SyncEntity.js",
+                "hash": "5dbe26b0543dfd4ed1e27bbd08027977"
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1654708844473905:232543": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327751:426104": {
+        "IResourceController": {
+            "name": "AirHockeyPaddle",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654708844473905:232543",
+            "fileId": "1675391971327875:426249",
+            "publicId": "1675391971328038:426358",
+            "expected_hash": "1ca9aa4fd5e9293acb0fe05b388759cf"
+        },
+        "IResourceManager": {
+            "uid": "1654708844473905:232543",
+            "name": "Files/File_1675391971327875_426249.js",
+            "flags": 1
+        }
+    },
+    "1675391971327875:426249": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327875_426249.js"
+        }
+    },
+    "1675391971328038:426358": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Air Hockey/Scripts/AirHockeyPaddle.js",
+                "hash": "1ca9aa4fd5e9293acb0fe05b388759cf"
+            }
+        }
+    }
+}

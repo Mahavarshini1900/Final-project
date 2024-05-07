@@ -1,0 +1,39 @@
+{
+    "1675391971327754:426130": {
+        "IResourceController": {
+            "name": "Persistent Owned Sphere",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1660864052433271:423164",
+            "fileId": "1675391971327925:426285",
+            "originalId": "1675391971327926:426286",
+            "publicId": "1675391971328044:426380",
+            "expected_hash": "5bdbc60c7c0efa98548f204991f98dc8"
+        },
+        "IResourceManager": {
+            "uid": "1660864052433271:423164",
+            "name": "sceneObject_1",
+            "flags": 0
+        }
+    },
+    "1675391971327925:426285": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327925_426285.oprfb"
+        }
+    },
+    "1675391971327926:426286": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327926_426286.oprfb"
+        }
+    },
+    "1675391971328044:426380": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Persistence Examples/Persistent Player Owned/Persistent Owned Sphere.oprfb",
+                "hash": "d54952a9fd79d62a1e3ad64d48485918"
+            }
+        }
+    }
+}

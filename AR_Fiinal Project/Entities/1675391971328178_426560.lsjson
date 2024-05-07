@@ -1,0 +1,23 @@
+{
+    "1675391971328047:426388": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Shared Value Examples"
+            }
+        }
+    },
+    "1675391971328178:426560": {
+        "IResourceController": {
+            "name": "Shared Value Examples",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328047:426388",
+            "resources": [
+                "1675391971328173:426558",
+                "1675391971328178:426559"
+            ]
+        }
+    }
+}

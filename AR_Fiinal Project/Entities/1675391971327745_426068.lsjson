@@ -1,0 +1,39 @@
+{
+    "1675391971327745:426068": {
+        "IResourceController": {
+            "name": "Heart Glasses",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1652826777685315:2255478",
+            "fileId": "1675391971327810:426201",
+            "originalId": "1675391971327811:426202",
+            "publicId": "1675391971328067:426460",
+            "expected_hash": "c36348ffcfc677f273bf7f6af7921d15"
+        },
+        "IResourceManager": {
+            "uid": "1652826777685315:2255478",
+            "name": "Heart Glasses",
+            "flags": 0
+        }
+    },
+    "1675391971327810:426201": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327810_426201.oprfb"
+        }
+    },
+    "1675391971327811:426202": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327811_426202.oprfb"
+        }
+    },
+    "1675391971328067:426460": {
+        "IResourceController": {
+            "public": {
+                "path": "Avatar Controller/Heart Glasses Avatar/Heart Glasses.oprfb",
+                "hash": "2d2bc94eb2a710ae7e9dc71c6c34e3ef"
+            }
+        }
+    }
+}

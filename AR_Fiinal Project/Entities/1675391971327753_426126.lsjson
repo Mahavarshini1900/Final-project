@@ -1,0 +1,38 @@
+{
+    "1657766122086641:3921010": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327753:426126": {
+        "IResourceController": {
+            "name": "PersistentOwnedObj",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1657766122086641:3921010",
+            "fileId": "1675391971327917:426280",
+            "publicId": "1675391971328043:426378",
+            "expected_hash": "be06345bacb4bb96c399433efcc374ba"
+        },
+        "IResourceManager": {
+            "uid": "1657766122086641:3921010",
+            "name": "Files/File_1675391971327917_426280.js",
+            "flags": 1
+        }
+    },
+    "1675391971327917:426280": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327917_426280.js"
+        }
+    },
+    "1675391971328043:426378": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Persistence Examples/Persistent Player Owned/PersistentOwnedObj.js",
+                "hash": "be06345bacb4bb96c399433efcc374ba"
+            }
+        }
+    }
+}

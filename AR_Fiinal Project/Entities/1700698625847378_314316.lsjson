@@ -1,0 +1,39 @@
+{
+    "1700698625845904:314315": {
+        "IFileManager": {
+            "path": "Files/File_1700698625845904_314315"
+        }
+    },
+    "1700698625847378:314316": {
+        "IResourceController": {
+            "name": "Button PBR",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700698625847381:314317",
+            "fileId": "1700698625845904:314315",
+            "originalId": "1700698625869027:314323",
+            "publicId": "1700698625954490:314330",
+            "expected_hash": "3c798bbdf313c4752db951756ecf57c1"
+        },
+        "IResourceManager": {
+            "uid": "1700698625847381:314317",
+            "name": "Files/File_1700698625845904_314315",
+            "flags": 1
+        }
+    },
+    "1700698625869027:314323": {
+        "IFileManager": {
+            "path": "Files/File_1700698625869027_314323.lsmat"
+        }
+    },
+    "1700698625954490:314330": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Shared Value Examples/Simple Shared Score/Button PBR.lsmat",
+                "hash": "cbb79d92b64feec4de37977491664663"
+            }
+        }
+    }
+}

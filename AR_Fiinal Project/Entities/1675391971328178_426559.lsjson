@@ -1,0 +1,27 @@
+{
+    "1675391971328049:426396": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Shared Value Examples/Shared Color Picker"
+            }
+        }
+    },
+    "1675391971328178:426559": {
+        "IResourceController": {
+            "name": "Shared Color Picker",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328049:426396",
+            "resources": [
+                "1675391971327750:426096",
+                "1675391971327750:426097",
+                "1675391971327750:426098",
+                "1675391971327750:426099",
+                "1675391971327751:426103",
+                "1675391971327750:426102"
+            ]
+        }
+    }
+}

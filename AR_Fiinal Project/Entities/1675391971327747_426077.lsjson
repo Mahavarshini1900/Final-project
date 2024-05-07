@@ -1,0 +1,39 @@
+{
+    "1675391971327747:426077": {
+        "IResourceController": {
+            "name": "Deleter Mat",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1653695711065497:492481",
+            "fileId": "1675391971327824:426211",
+            "originalId": "1675391971327825:426212",
+            "publicId": "1675391971328076:426494",
+            "expected_hash": "4633de17d10207d1a8cb335656823734"
+        },
+        "IResourceManager": {
+            "uid": "1653695711065497:492481",
+            "name": "Files/File_1675391971327824_426211",
+            "flags": 1
+        }
+    },
+    "1675391971327824:426211": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327824_426211"
+        }
+    },
+    "1675391971327825:426212": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327825_426212.lsmat"
+        }
+    },
+    "1675391971328076:426494": {
+        "IResourceController": {
+            "public": {
+                "path": "Toolbelt/Deleter Mat.lsmat",
+                "hash": "e6f0918fa08ebd3649da7beef594f0e1"
+            }
+        }
+    }
+}

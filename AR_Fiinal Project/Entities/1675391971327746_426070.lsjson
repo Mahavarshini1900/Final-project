@@ -1,0 +1,38 @@
+{
+    "1653089049191990:90058": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327746:426070": {
+        "IResourceController": {
+            "name": "NetworkIdTools",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1653089049191990:90058",
+            "fileId": "1675391971327814:426204",
+            "publicId": "1675391971328058:426434",
+            "expected_hash": "20a5d65eb689a4d3a81bcac5c9e08f00"
+        },
+        "IResourceManager": {
+            "uid": "1653089049191990:90058",
+            "name": "Files/File_1675391971327814_426204.js",
+            "flags": 1
+        }
+    },
+    "1675391971327814:426204": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327814_426204.js"
+        }
+    },
+    "1675391971328058:426434": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Core/NetworkIdTools.js",
+                "hash": "20a5d65eb689a4d3a81bcac5c9e08f00"
+            }
+        }
+    }
+}

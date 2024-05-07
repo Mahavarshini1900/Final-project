@@ -1,0 +1,39 @@
+{
+    "1675391971327751:426103": {
+        "IResourceController": {
+            "name": "ColorSliderPole",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654228981255658:932011",
+            "fileId": "1675391971327872:426247",
+            "originalId": "1675391971327874:426248",
+            "publicId": "1675391971328050:426401",
+            "expected_hash": "bd2778481e2a2305f905dbedd5137eda"
+        },
+        "IResourceManager": {
+            "uid": "1654228981255658:932011",
+            "name": "Files/File_1675391971327872_426247",
+            "flags": 1
+        }
+    },
+    "1675391971327872:426247": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327872_426247"
+        }
+    },
+    "1675391971327874:426248": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327874_426248.lsmat"
+        }
+    },
+    "1675391971328050:426401": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Shared Value Examples/Shared Color Picker/ColorSliderPole.lsmat",
+                "hash": "407241fe58bf0d488ada1b6e32bbccf5"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1675391971327749:426093": {
+        "IResourceController": {
+            "name": "monitor",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654198616394171:2362041",
+            "fileId": "1675391971327851:426231",
+            "originalId": "1675391971327852:426232",
+            "publicId": "1675391971328049:426395",
+            "expected_hash": "f92f0d318366eb1db3c4e1d1b06ac383"
+        },
+        "IResourceManager": {
+            "uid": "1654198616394171:2362041",
+            "name": "Files/File_1675391971327851_426231",
+            "flags": 1
+        }
+    },
+    "1675391971327851:426231": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327851_426231"
+        }
+    },
+    "1675391971327852:426232": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327852_426232.lsmat"
+        }
+    },
+    "1675391971328049:426395": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Shared Value Examples/Simple Shared Score/monitor.lsmat",
+                "hash": "4b83504c883dcd51d56d73f6e181ea6c"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1675391971327752:426115": {
+        "IResourceController": {
+            "name": "Complex Message Event Prefab",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1655486722169614:2078632",
+            "fileId": "1675391971327893:426263",
+            "originalId": "1675391971327895:426264",
+            "publicId": "1675391971328040:426366",
+            "expected_hash": "f2b16d88fa5c9537a37ba64752b4e395"
+        },
+        "IResourceManager": {
+            "uid": "1655486722169614:2078632",
+            "name": "Text Input 2",
+            "flags": 0
+        }
+    },
+    "1675391971327893:426263": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327893_426263.oprfb"
+        }
+    },
+    "1675391971327895:426264": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327895_426264.oprfb"
+        }
+    },
+    "1675391971328040:426366": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Events Examples/Complex Message Event/Complex Message Event Prefab.oprfb",
+                "hash": "6932910aaa344b81ac8c18f0ff0a4739"
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "1675391971328063:426448": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Components/Sync Helpers"
+            }
+        }
+    },
+    "1675391971328236:426586": {
+        "IResourceController": {
+            "name": "Sync Helpers",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328063:426448",
+            "resources": [
+                "1675391971327746:426072",
+                "1675391971327749:426090",
+                "1675391971327749:426094",
+                "1675391971327752:426113"
+            ]
+        }
+    }
+}

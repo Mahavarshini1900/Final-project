@@ -1,0 +1,38 @@
+{
+    "1654192181239307:205171": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327749:426090": {
+        "IResourceController": {
+            "name": "SetEnabledIfOwner",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654192181239307:205171",
+            "fileId": "1675391971327845:426227",
+            "publicId": "1675391971328064:426450",
+            "expected_hash": "afcb0e5f85f466e3717ca82c5e82d966"
+        },
+        "IResourceManager": {
+            "uid": "1654192181239307:205171",
+            "name": "Files/File_1675391971327845_426227.js",
+            "flags": 1
+        }
+    },
+    "1675391971327845:426227": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327845_426227.js"
+        }
+    },
+    "1675391971328064:426450": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Components/Sync Helpers/SetEnabledIfOwner.js",
+                "hash": "afcb0e5f85f466e3717ca82c5e82d966"
+            }
+        }
+    }
+}

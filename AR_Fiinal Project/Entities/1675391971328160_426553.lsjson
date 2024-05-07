@@ -1,0 +1,23 @@
+{
+    "1675391971328041:426371": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Persistence Examples/Instantiated Entity Persistence"
+            }
+        }
+    },
+    "1675391971328160:426553": {
+        "IResourceController": {
+            "name": "Instantiated Entity Persistence",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328041:426371",
+            "resources": [
+                "1675391971327753:426120",
+                "1675391971327753:426119"
+            ]
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1653689784795514:119833": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327747:426076": {
+        "IResourceController": {
+            "name": "ToolbeltController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1653689784795514:119833",
+            "fileId": "1675391971327822:426210",
+            "publicId": "1675391971328076:426493",
+            "expected_hash": "4989ab64ecf8ff4bbd6f394cab489a3d"
+        },
+        "IResourceManager": {
+            "uid": "1653689784795514:119833",
+            "name": "Files/File_1675391971327822_426210.js",
+            "flags": 1
+        }
+    },
+    "1675391971327822:426210": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327822_426210.js"
+        }
+    },
+    "1675391971328076:426493": {
+        "IResourceController": {
+            "public": {
+                "path": "Toolbelt/ToolbeltController.js",
+                "hash": "4989ab64ecf8ff4bbd6f394cab489a3d"
+            }
+        }
+    }
+}

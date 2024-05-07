@@ -1,0 +1,23 @@
+{
+    "1675391971328073:426485": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Avatar/Prefabs"
+            }
+        }
+    },
+    "1675391971328274:426603": {
+        "IResourceController": {
+            "name": "Prefabs",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328073:426485",
+            "resources": [
+                "1675391971327755:426145",
+                "1675391971327756:426146"
+            ]
+        }
+    }
+}

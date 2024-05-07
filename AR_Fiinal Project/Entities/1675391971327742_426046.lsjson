@@ -1,0 +1,33 @@
+{
+    "1675391971327742:426046": {
+        "IResourceController": {
+            "name": "MavenPro-SemiBold",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1649006272612130:75340027",
+            "fileId": "1675391971327758:426167",
+            "publicId": "1675391971328048:426393",
+            "expected_hash": "1e62ec9f4beb789e87eff604ef4de87f"
+        },
+        "IResourceManager": {
+            "uid": "1649006272612130:75340027",
+            "name": "Files/File_1675391971327758_426167.ttf",
+            "flags": 1
+        }
+    },
+    "1675391971327758:426167": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327758_426167.ttf"
+        }
+    },
+    "1675391971328048:426393": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Shared Value Examples/Simple Shared Score/MavenPro-SemiBold.ttf",
+                "hash": "1e62ec9f4beb789e87eff604ef4de87f"
+            }
+        }
+    }
+}

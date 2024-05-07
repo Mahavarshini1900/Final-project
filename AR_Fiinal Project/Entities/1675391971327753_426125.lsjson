@@ -1,0 +1,39 @@
+{
+    "1675391971327753:426125": {
+        "IResourceController": {
+            "name": "Persistent Owned Cube",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1657766023684115:3724029",
+            "fileId": "1675391971327914:426278",
+            "originalId": "1675391971327916:426279",
+            "publicId": "1675391971328044:426379",
+            "expected_hash": "7475ab7ca479c77302103fcc7aae5d74"
+        },
+        "IResourceManager": {
+            "uid": "1657766023684115:3724029",
+            "name": "Box",
+            "flags": 0
+        }
+    },
+    "1675391971327914:426278": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327914_426278.oprfb"
+        }
+    },
+    "1675391971327916:426279": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327916_426279.oprfb"
+        }
+    },
+    "1675391971328044:426379": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Persistence Examples/Persistent Player Owned/Persistent Owned Cube.oprfb",
+                "hash": "ac42d0c633703afe3dc99304b2328802"
+            }
+        }
+    }
+}

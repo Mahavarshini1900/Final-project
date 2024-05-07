@@ -1,0 +1,39 @@
+{
+    "1675391971327965:426313": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327965_426313.fbx"
+        }
+    },
+    "1675391971328056:426424": {
+        "IResourceController": {
+            "public": {
+                "path": "Shared Resources/Meshes/Torus.fbx",
+                "hash": "1b5359c2f82281b542f6b80bd62381f8"
+            }
+        }
+    },
+    "1675391971328205:426571": {
+        "IResourceController": {
+            "name": "Torus",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1675391971327965:426313",
+            "publicId": "1675391971328056:426424",
+            "expected_hash": "1b5359c2f82281b542f6b80bd62381f8",
+            "resources": [
+                "1675391971328205:426570",
+                "1675391971327756:426152"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1669671750851940:343509"
+                    }
+                ]
+            }
+        }
+    }
+}

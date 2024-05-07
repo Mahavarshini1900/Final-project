@@ -1,0 +1,38 @@
+{
+    "1654216724895005:629371": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327750:426101": {
+        "IResourceController": {
+            "name": "ResetPosInStudio",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654216724895005:629371",
+            "fileId": "1675391971327868:426244",
+            "publicId": "1675391971328046:426385",
+            "expected_hash": "a1868f2bc9f9d83a44a18ce7f8e4fc83"
+        },
+        "IResourceManager": {
+            "uid": "1654216724895005:629371",
+            "name": "Files/File_1675391971327868_426244.js",
+            "flags": 1
+        }
+    },
+    "1675391971327868:426244": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327868_426244.js"
+        }
+    },
+    "1675391971328046:426385": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Helpers/ResetPosInStudio.js",
+                "hash": "a1868f2bc9f9d83a44a18ce7f8e4fc83"
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "1675391971328071:426475": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Avatar/Meshes"
+            }
+        }
+    },
+    "1675391971328271:426601": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328071:426475",
+            "resources": [
+                "1675391971328267:426598",
+                "1675391971328271:426600"
+            ]
+        }
+    }
+}

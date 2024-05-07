@@ -1,0 +1,39 @@
+{
+    "1675391971327976:426321": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327976_426321.fbx"
+        }
+    },
+    "1675391971328057:426426": {
+        "IResourceController": {
+            "public": {
+                "path": "Shared Resources/Meshes/Sphere 3.fbx",
+                "hash": "74791f1d2b82ec87bc7d7e22b31eabca"
+            }
+        }
+    },
+    "1675391971328215:426575": {
+        "IResourceController": {
+            "name": "Sphere 3",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1675391971327976:426321",
+            "publicId": "1675391971328057:426426",
+            "expected_hash": "74791f1d2b82ec87bc7d7e22b31eabca",
+            "resources": [
+                "1675391971328215:426574",
+                "1675391971327757:426156"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1669671755642845:400961"
+                    }
+                ]
+            }
+        }
+    }
+}

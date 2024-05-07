@@ -1,0 +1,39 @@
+{
+    "1675391971327750:426099": {
+        "IResourceController": {
+            "name": "Blue",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654215993194830:236403",
+            "fileId": "1675391971327863:426240",
+            "originalId": "1675391971327865:426241",
+            "publicId": "1675391971328050:426400",
+            "expected_hash": "bd2778481e2a2305f905dbedd5137eda"
+        },
+        "IResourceManager": {
+            "uid": "1654215993194830:236403",
+            "name": "Files/File_1675391971327863_426240",
+            "flags": 1
+        }
+    },
+    "1675391971327863:426240": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327863_426240"
+        }
+    },
+    "1675391971327865:426241": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327865_426241.lsmat"
+        }
+    },
+    "1675391971328050:426400": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Shared Value Examples/Shared Color Picker/Blue.lsmat",
+                "hash": "6ed0263cad4736a9a2679647ea95b75c"
+            }
+        }
+    }
+}

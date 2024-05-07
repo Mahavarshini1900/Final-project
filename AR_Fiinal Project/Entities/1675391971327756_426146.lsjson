@@ -1,0 +1,39 @@
+{
+    "1675391971327756:426146": {
+        "IResourceController": {
+            "name": "RightHandAvatar",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1666814454863058:5531003",
+            "fileId": "1675391971327953:426305",
+            "originalId": "1675391971327955:426306",
+            "publicId": "1675391971328074:426487",
+            "expected_hash": "5bbda9487252dc5fe60a650889250a26"
+        },
+        "IResourceManager": {
+            "uid": "1666814454863058:5531003",
+            "name": "RightHandAvatar",
+            "flags": 0
+        }
+    },
+    "1675391971327953:426305": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327953_426305.oprfb"
+        }
+    },
+    "1675391971327955:426306": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327955_426306.oprfb"
+        }
+    },
+    "1675391971328074:426487": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Avatar/Prefabs/RightHandAvatar.oprfb",
+                "hash": "1ebd7073b6cff01a25b9bc788a5053f7"
+            }
+        }
+    }
+}

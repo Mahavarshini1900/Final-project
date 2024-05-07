@@ -1,0 +1,38 @@
+{
+    "1654198197904011:2209438": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327749:426091": {
+        "IResourceController": {
+            "name": "TextDepthHelper",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654198197904011:2209438",
+            "fileId": "1675391971327846:426228",
+            "publicId": "1675391971328045:426383",
+            "expected_hash": "207c61ad604dce152bee1fd186bd49d4"
+        },
+        "IResourceManager": {
+            "uid": "1654198197904011:2209438",
+            "name": "Files/File_1675391971327846_426228.js",
+            "flags": 1
+        }
+    },
+    "1675391971327846:426228": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327846_426228.js"
+        }
+    },
+    "1675391971328045:426383": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Helpers/TextDepthHelper.js",
+                "hash": "207c61ad604dce152bee1fd186bd49d4"
+            }
+        }
+    }
+}

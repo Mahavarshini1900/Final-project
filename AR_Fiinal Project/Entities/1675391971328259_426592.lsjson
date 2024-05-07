@@ -1,0 +1,23 @@
+{
+    "1675391971328069:426467": {
+        "IResourceController": {
+            "public": {
+                "path": "Avatar Controller/Heart Glasses Avatar/Materials"
+            }
+        }
+    },
+    "1675391971328259:426592": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328069:426467",
+            "resources": [
+                "1675391971327745:426065",
+                "1675391971327745:426066"
+            ]
+        }
+    }
+}

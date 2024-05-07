@@ -1,0 +1,38 @@
+{
+    "1655335798976577:7119853": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327752:426113": {
+        "IResourceController": {
+            "name": "SetEnabledOnReady",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1655335798976577:7119853",
+            "fileId": "1675391971327891:426261",
+            "publicId": "1675391971328064:426452",
+            "expected_hash": "78c7a380d498c8e071e3dee25a9b432a"
+        },
+        "IResourceManager": {
+            "uid": "1655335798976577:7119853",
+            "name": "Files/File_1675391971327891_426261.js",
+            "flags": 1
+        }
+    },
+    "1675391971327891:426261": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327891_426261.js"
+        }
+    },
+    "1675391971328064:426452": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Components/Sync Helpers/SetEnabledOnReady.js",
+                "hash": "78c7a380d498c8e071e3dee25a9b432a"
+            }
+        }
+    }
+}

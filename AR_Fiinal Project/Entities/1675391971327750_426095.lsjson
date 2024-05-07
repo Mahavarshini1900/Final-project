@@ -1,0 +1,38 @@
+{
+    "1654211096779637:1728968": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327750:426095": {
+        "IResourceController": {
+            "name": "ConstrainBody",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654211096779637:1728968",
+            "fileId": "1675391971327855:426234",
+            "publicId": "1675391971328045:426384",
+            "expected_hash": "e1ea0d260f41b22430fc6803b44ef735"
+        },
+        "IResourceManager": {
+            "uid": "1654211096779637:1728968",
+            "name": "Files/File_1675391971327855_426234.js",
+            "flags": 1
+        }
+    },
+    "1675391971327855:426234": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327855_426234.js"
+        }
+    },
+    "1675391971328045:426384": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Helpers/ConstrainBody.js",
+                "hash": "e1ea0d260f41b22430fc6803b44ef735"
+            }
+        }
+    }
+}

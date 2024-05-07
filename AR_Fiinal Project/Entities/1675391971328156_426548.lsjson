@@ -1,0 +1,23 @@
+{
+    "1675391971328036:426350": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Air Hockey"
+            }
+        }
+    },
+    "1675391971328156:426548": {
+        "IResourceController": {
+            "name": "Air Hockey",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328036:426350",
+            "resources": [
+                "1675391971328155:426546",
+                "1675391971328156:426547"
+            ]
+        }
+    }
+}

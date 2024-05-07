@@ -1,0 +1,38 @@
+{
+    "1653696167977664:744092": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327748:426079": {
+        "IResourceController": {
+            "name": "RaycastButton",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1653696167977664:744092",
+            "fileId": "1675391971327829:426215",
+            "publicId": "1675391971328045:426382",
+            "expected_hash": "a86366b02b01a54acba56bb1115a8a82"
+        },
+        "IResourceManager": {
+            "uid": "1653696167977664:744092",
+            "name": "Files/File_1675391971327829_426215.js",
+            "flags": 1
+        }
+    },
+    "1675391971327829:426215": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327829_426215.js"
+        }
+    },
+    "1675391971328045:426382": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Helpers/RaycastButton.js",
+                "hash": "a86366b02b01a54acba56bb1115a8a82"
+            }
+        }
+    }
+}

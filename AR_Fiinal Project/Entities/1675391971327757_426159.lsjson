@@ -1,0 +1,106 @@
+{
+    "1669671761440118:458609": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "1562016",
+                "compressedSize": "1221089",
+                "extension": "mesh",
+                "originalRAM": "1562016",
+                "originalSize": "1221089",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675391971327989:426330"
+        }
+    },
+    "1675391971327757:426159": {
+        "IResourceController": {
+            "name": "Circle",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1669671761440118:458609",
+            "fileId": "1675391971327985:426327",
+            "expected_hash": "b5bf64e67e41d5e5fa2e236202ed86cc",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1669671761440118:458609",
+            "name": "Files/File_1675391971327985_426327.mesh",
+            "flags": 1
+        }
+    },
+    "1675391971327985:426327": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327985_426327.mesh"
+        }
+    },
+    "1675391971327989:426330": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327989_426330.mesh"
+        }
+    }
+}

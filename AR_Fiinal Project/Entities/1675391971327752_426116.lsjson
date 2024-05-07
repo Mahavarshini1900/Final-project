@@ -1,0 +1,38 @@
+{
+    "1655498923045757:837382": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327752:426116": {
+        "IResourceController": {
+            "name": "SendEventToObject",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1655498923045757:837382",
+            "fileId": "1675391971327896:426265",
+            "publicId": "1675391971328041:426368",
+            "expected_hash": "43cc4965a2fa69dd56a012fcf9f91f05"
+        },
+        "IResourceManager": {
+            "uid": "1655498923045757:837382",
+            "name": "Files/File_1675391971327896_426265.js",
+            "flags": 1
+        }
+    },
+    "1675391971327896:426265": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327896_426265.js"
+        }
+    },
+    "1675391971328041:426368": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Events Examples/Modification Events/SendEventToObject.js",
+                "hash": "43cc4965a2fa69dd56a012fcf9f91f05"
+            }
+        }
+    }
+}

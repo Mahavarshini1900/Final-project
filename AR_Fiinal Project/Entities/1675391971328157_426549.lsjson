@@ -1,0 +1,22 @@
+{
+    "1675391971328039:426362": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Events Examples/Play Tween On Event"
+            }
+        }
+    },
+    "1675391971328157:426549": {
+        "IResourceController": {
+            "name": "Play Tween On Event",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328039:426362",
+            "resources": [
+                "1675391971327752:426112"
+            ]
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1653333493528999:692637": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327746:426073": {
+        "IResourceController": {
+            "name": "SyncMaterials",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1653333493528999:692637",
+            "fileId": "1675391971327818:426207",
+            "publicId": "1675391971328063:426447",
+            "expected_hash": "c5ab2f8dc68f5df7c7f7238cd1997bd9"
+        },
+        "IResourceManager": {
+            "uid": "1653333493528999:692637",
+            "name": "Files/File_1675391971327818_426207.js",
+            "flags": 1
+        }
+    },
+    "1675391971327818:426207": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327818_426207.js"
+        }
+    },
+    "1675391971328063:426447": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Components/SyncMaterials.js",
+                "hash": "c5ab2f8dc68f5df7c7f7238cd1997bd9"
+            }
+        }
+    }
+}

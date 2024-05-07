@@ -1,0 +1,17 @@
+{
+    "1675391971327752:426110": {
+        "IResourceController": {
+            "name": "Air Hockey Material",
+            "type": 37,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654712520021296:3065116"
+        },
+        "IResourceManager": {
+            "uid": "1654712520021296:3065116",
+            "name": "PhysicsMatter Asset",
+            "flags": 0
+        }
+    }
+}

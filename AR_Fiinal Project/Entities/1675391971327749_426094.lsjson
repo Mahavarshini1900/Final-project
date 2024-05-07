@@ -1,0 +1,38 @@
+{
+    "1654199128867005:2573359": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327749:426094": {
+        "IResourceController": {
+            "name": "DisplayStorageProperty",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654199128867005:2573359",
+            "fileId": "1675391971327854:426233",
+            "publicId": "1675391971328064:426451",
+            "expected_hash": "4c2b390a5f337a64e1f11e7b2a2d3029"
+        },
+        "IResourceManager": {
+            "uid": "1654199128867005:2573359",
+            "name": "Files/File_1675391971327854_426233.js",
+            "flags": 1
+        }
+    },
+    "1675391971327854:426233": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327854_426233.js"
+        }
+    },
+    "1675391971328064:426451": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Components/Sync Helpers/DisplayStorageProperty.js",
+                "hash": "4c2b390a5f337a64e1f11e7b2a2d3029"
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1651877716737074:34481": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327744:426054": {
+        "IResourceController": {
+            "name": "StorageProperties",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1651877716737074:34481",
+            "fileId": "1675391971327777:426177",
+            "publicId": "1675391971328059:426435",
+            "expected_hash": "c1de31f1ef7cdcb8a41b0fcfd747937b"
+        },
+        "IResourceManager": {
+            "uid": "1651877716737074:34481",
+            "name": "Files/File_1675391971327777_426177.js",
+            "flags": 1
+        }
+    },
+    "1675391971327777:426177": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327777_426177.js"
+        }
+    },
+    "1675391971328059:426435": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Core/StorageProperties.js",
+                "hash": "c1de31f1ef7cdcb8a41b0fcfd747937b"
+            }
+        }
+    }
+}

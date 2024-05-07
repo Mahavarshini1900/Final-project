@@ -1,0 +1,39 @@
+{
+    "1675391971327744:426057": {
+        "IResourceController": {
+            "name": "Sphere 2",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1652729250060472:472210",
+            "fileId": "1675391971327781:426180",
+            "originalId": "1675391971327783:426181",
+            "publicId": "1675391971328076:426495",
+            "expected_hash": "da6406ec008e6cde3b4cf12d809192bb"
+        },
+        "IResourceManager": {
+            "uid": "1652729250060472:472210",
+            "name": "Sphere",
+            "flags": 0
+        }
+    },
+    "1675391971327781:426180": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327781_426180.oprfb"
+        }
+    },
+    "1675391971327783:426181": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327783_426181.oprfb"
+        }
+    },
+    "1675391971328076:426495": {
+        "IResourceController": {
+            "public": {
+                "path": "Toolbelt/Sphere 2.oprfb",
+                "hash": "f0d5435a8351566e4af91f1906de15cf"
+            }
+        }
+    }
+}

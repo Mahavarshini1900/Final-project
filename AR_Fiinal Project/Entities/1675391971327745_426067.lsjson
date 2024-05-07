@@ -1,0 +1,38 @@
+{
+    "1652825317737311:1340839": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327745:426067": {
+        "IResourceController": {
+            "name": "AvatarController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1652825317737311:1340839",
+            "fileId": "1675391971327808:426200",
+            "publicId": "1675391971328066:426458",
+            "expected_hash": "a61914ccec28955ef5e6f3e665272e2e"
+        },
+        "IResourceManager": {
+            "uid": "1652825317737311:1340839",
+            "name": "Files/File_1675391971327808_426200.js",
+            "flags": 1
+        }
+    },
+    "1675391971327808:426200": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327808_426200.js"
+        }
+    },
+    "1675391971328066:426458": {
+        "IResourceController": {
+            "public": {
+                "path": "Avatar Controller/AvatarController.js",
+                "hash": "a61914ccec28955ef5e6f3e665272e2e"
+            }
+        }
+    }
+}

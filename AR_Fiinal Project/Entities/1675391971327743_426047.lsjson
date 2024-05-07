@@ -1,0 +1,38 @@
+{
+    "1649793876812583:8094662": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327743:426047": {
+        "IResourceController": {
+            "name": "SessionController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1649793876812583:8094662",
+            "fileId": "1675391971327765:426168",
+            "publicId": "1675391971328059:426437",
+            "expected_hash": "80fab52919ec654942e344a93c2317bd"
+        },
+        "IResourceManager": {
+            "uid": "1649793876812583:8094662",
+            "name": "Files/File_1675391971327765_426168.js",
+            "flags": 1
+        }
+    },
+    "1675391971327765:426168": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327765_426168.js"
+        }
+    },
+    "1675391971328059:426437": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Core/SessionController.js",
+                "hash": "80fab52919ec654942e344a93c2317bd"
+            }
+        }
+    }
+}

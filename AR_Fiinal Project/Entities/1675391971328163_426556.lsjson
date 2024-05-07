@@ -1,0 +1,24 @@
+{
+    "1675391971328041:426370": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Persistence Examples"
+            }
+        }
+    },
+    "1675391971328163:426556": {
+        "IResourceController": {
+            "name": "Persistence Examples",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328041:426370",
+            "resources": [
+                "1675391971328160:426553",
+                "1675391971328161:426554",
+                "1675391971328163:426555"
+            ]
+        }
+    }
+}

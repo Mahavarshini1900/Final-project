@@ -1,0 +1,39 @@
+{
+    "1675391971327753:426119": {
+        "IResourceController": {
+            "name": "SpawnableBox",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1656359167718687:4358978",
+            "fileId": "1675391971327900:426268",
+            "originalId": "1675391971327903:426270",
+            "publicId": "1675391971328042:426373",
+            "expected_hash": "28670a31c6007f68249c00d06d490c1a"
+        },
+        "IResourceManager": {
+            "uid": "1656359167718687:4358978",
+            "name": "SpawnableBox",
+            "flags": 0
+        }
+    },
+    "1675391971327900:426268": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327900_426268.oprfb"
+        }
+    },
+    "1675391971327903:426270": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327903_426270.oprfb"
+        }
+    },
+    "1675391971328042:426373": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Persistence Examples/Instantiated Entity Persistence/SpawnableBox.oprfb",
+                "hash": "ba1e6010639bd474fc9e443ca46d7df1"
+            }
+        }
+    }
+}

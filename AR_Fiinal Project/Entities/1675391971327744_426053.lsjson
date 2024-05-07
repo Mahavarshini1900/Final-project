@@ -1,0 +1,38 @@
+{
+    "1651692851792248:659940": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327744:426053": {
+        "IResourceController": {
+            "name": "EventUtils",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1651692851792248:659940",
+            "fileId": "1675391971327776:426176",
+            "publicId": "1675391971328060:426441",
+            "expected_hash": "4f599e899eaf267d636826039af5e5f4"
+        },
+        "IResourceManager": {
+            "uid": "1651692851792248:659940",
+            "name": "Files/File_1675391971327776_426176.js",
+            "flags": 1
+        }
+    },
+    "1675391971327776:426176": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327776_426176.js"
+        }
+    },
+    "1675391971328060:426441": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Utils/EventUtils.js",
+                "hash": "4f599e899eaf267d636826039af5e5f4"
+            }
+        }
+    }
+}

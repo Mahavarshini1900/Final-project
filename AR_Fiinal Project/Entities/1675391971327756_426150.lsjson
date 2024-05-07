@@ -1,0 +1,30 @@
+{
+    "1675391971327756:426150": {
+        "IResourceController": {
+            "name": "Cube",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1669671747500321:314864",
+            "fileId": "1675391971327958:426308",
+            "originalId": "1675391971327990:426331",
+            "expected_hash": "517dd0839490e51e7fb329f8a348235e"
+        },
+        "IResourceManager": {
+            "uid": "1669671747500321:314864",
+            "name": "Cube",
+            "flags": 0
+        }
+    },
+    "1675391971327958:426308": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327958_426308.oprfb"
+        }
+    },
+    "1675391971327990:426331": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327990_426331.oprfb"
+        }
+    }
+}

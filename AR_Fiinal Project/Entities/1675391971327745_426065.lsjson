@@ -1,0 +1,39 @@
+{
+    "1675391971327745:426065": {
+        "IResourceController": {
+            "name": "hearts_lens_material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1652825078079302:1272293",
+            "fileId": "1675391971327803:426196",
+            "originalId": "1675391971327804:426197",
+            "publicId": "1675391971328069:426468",
+            "expected_hash": "768ad634424549f1cc67ae71526fb982"
+        },
+        "IResourceManager": {
+            "uid": "1652825078079302:1272293",
+            "name": "Files/File_1675391971327803_426196",
+            "flags": 1
+        }
+    },
+    "1675391971327803:426196": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327803_426196"
+        }
+    },
+    "1675391971327804:426197": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327804_426197.lsmat"
+        }
+    },
+    "1675391971328069:426468": {
+        "IResourceController": {
+            "public": {
+                "path": "Avatar Controller/Heart Glasses Avatar/Materials/hearts_lens_material.lsmat",
+                "hash": "d6a53b990c0f50714b9e510ce70d6285"
+            }
+        }
+    }
+}

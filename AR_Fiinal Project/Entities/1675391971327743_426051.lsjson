@@ -1,0 +1,38 @@
+{
+    "1651622987710952:116151": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327743:426051": {
+        "IResourceController": {
+            "name": "TextLogger",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1651622987710952:116151",
+            "fileId": "1675391971327772:426173",
+            "publicId": "1675391971328061:426442",
+            "expected_hash": "b32c2146ab4828b4cebfe9c7da5a6024"
+        },
+        "IResourceManager": {
+            "uid": "1651622987710952:116151",
+            "name": "Files/File_1675391971327772_426173.js",
+            "flags": 1
+        }
+    },
+    "1675391971327772:426173": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327772_426173.js"
+        }
+    },
+    "1675391971328061:426442": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Utils/TextLogger.js",
+                "hash": "b32c2146ab4828b4cebfe9c7da5a6024"
+            }
+        }
+    }
+}

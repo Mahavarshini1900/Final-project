@@ -1,0 +1,39 @@
+{
+    "1675391971327982:426325": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327982_426325.fbx"
+        }
+    },
+    "1675391971328057:426427": {
+        "IResourceController": {
+            "public": {
+                "path": "Shared Resources/Meshes/Pyramid.fbx",
+                "hash": "74e397f17063f4d271c336a9a9b70928"
+            }
+        }
+    },
+    "1675391971328220:426577": {
+        "IResourceController": {
+            "name": "Pyramid",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1675391971327982:426325",
+            "publicId": "1675391971328057:426427",
+            "expected_hash": "74e397f17063f4d271c336a9a9b70928",
+            "resources": [
+                "1675391971328220:426576",
+                "1675391971327757:426158"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1669671758063153:429743"
+                    }
+                ]
+            }
+        }
+    }
+}

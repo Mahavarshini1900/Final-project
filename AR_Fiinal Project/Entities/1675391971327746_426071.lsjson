@@ -1,0 +1,38 @@
+{
+    "1653090532654633:656411": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327746:426071": {
+        "IResourceController": {
+            "name": "SyncTransform",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1653090532654633:656411",
+            "fileId": "1675391971327815:426205",
+            "publicId": "1675391971328062:426445",
+            "expected_hash": "b9ab1b8bf6f7ed24918c0d0ac6e82f7b"
+        },
+        "IResourceManager": {
+            "uid": "1653090532654633:656411",
+            "name": "Files/File_1675391971327815_426205.js",
+            "flags": 1
+        }
+    },
+    "1675391971327815:426205": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327815_426205.js"
+        }
+    },
+    "1675391971328062:426445": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Components/SyncTransform.js",
+                "hash": "b9ab1b8bf6f7ed24918c0d0ac6e82f7b"
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1656359206284782:4392913": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327753:426120": {
+        "IResourceController": {
+            "name": "SpawnOnPlane",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1656359206284782:4392913",
+            "fileId": "1675391971327902:426269",
+            "publicId": "1675391971328042:426372",
+            "expected_hash": "be873e8fabab069c04cf8032e9379644"
+        },
+        "IResourceManager": {
+            "uid": "1656359206284782:4392913",
+            "name": "Files/File_1675391971327902_426269.js",
+            "flags": 1
+        }
+    },
+    "1675391971327902:426269": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327902_426269.js"
+        }
+    },
+    "1675391971328042:426372": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Persistence Examples/Instantiated Entity Persistence/SpawnOnPlane.js",
+                "hash": "be873e8fabab069c04cf8032e9379644"
+            }
+        }
+    }
+}

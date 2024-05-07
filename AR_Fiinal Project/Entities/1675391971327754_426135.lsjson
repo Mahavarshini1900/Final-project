@@ -1,0 +1,38 @@
+{
+    "1665775376060193:603517": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327754:426135": {
+        "IResourceController": {
+            "name": "HandAvatar",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1665775376060193:603517",
+            "fileId": "1675391971327936:426293",
+            "publicId": "1675391971328074:426489",
+            "expected_hash": "f44dd702093cc3fb7fc601aa4d5c8319"
+        },
+        "IResourceManager": {
+            "uid": "1665775376060193:603517",
+            "name": "Files/File_1675391971327936_426293.js",
+            "flags": 1
+        }
+    },
+    "1675391971327936:426293": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327936_426293.js"
+        }
+    },
+    "1675391971328074:426489": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Avatar/Scripts/HandAvatar.js",
+                "hash": "f44dd702093cc3fb7fc601aa4d5c8319"
+            }
+        }
+    }
+}

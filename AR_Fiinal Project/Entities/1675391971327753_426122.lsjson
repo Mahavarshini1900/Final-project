@@ -1,0 +1,79 @@
+{
+    "1656698266762689:65819": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "223fa414eb6cd93ec6501b68c394d689"
+                    },
+                    "v": "1675391971327910:426275"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "21461",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "12833",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1675391971327909:426274"
+        }
+    },
+    "1675391971327753:426122": {
+        "IResourceController": {
+            "name": "monitor_color",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1656698266762689:65819",
+            "fileId": "1675391971327906:426272",
+            "originalId": "1675391971327907:426273",
+            "publicId": "1675391971328048:426391",
+            "expected_hash": "8c8457e2d3cbf5ec16065a48c0dbcc51",
+            "additional": {
+                "originHash": "223fa414eb6cd93ec6501b68c394d689"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1656698266762689:65819",
+            "name": "Files/File612.jpg",
+            "flags": 1
+        }
+    },
+    "1675391971327906:426272": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327906_426272.pvr"
+        }
+    },
+    "1675391971327907:426273": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327907_426273.png"
+        }
+    },
+    "1675391971327909:426274": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327909_426274.png"
+        }
+    },
+    "1675391971327910:426275": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327910_426275.pvr"
+        }
+    },
+    "1675391971328048:426391": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Shared Value Examples/Simple Shared Score/monitor_color.png",
+                "hash": "223fa414eb6cd93ec6501b68c394d689"
+            }
+        }
+    }
+}

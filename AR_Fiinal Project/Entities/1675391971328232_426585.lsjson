@@ -1,0 +1,23 @@
+{
+    "1675391971328060:426440": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Utils"
+            }
+        }
+    },
+    "1675391971328232:426585": {
+        "IResourceController": {
+            "name": "Utils",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328060:426440",
+            "resources": [
+                "1675391971327744:426053",
+                "1675391971327743:426051"
+            ]
+        }
+    }
+}

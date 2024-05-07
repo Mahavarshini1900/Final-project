@@ -1,0 +1,30 @@
+{
+    "1675391971327756:426154": {
+        "IResourceController": {
+            "name": "Heart",
+            "type": 12,
+            "subtype": -1,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1669671753589797:372290",
+            "fileId": "1675391971327970:426316",
+            "originalId": "1675391971327993:426333",
+            "expected_hash": "f6ff615b492e79dddfac3e155c9fd3a3"
+        },
+        "IResourceManager": {
+            "uid": "1669671753589797:372290",
+            "name": "Heart",
+            "flags": 0
+        }
+    },
+    "1675391971327970:426316": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327970_426316.oprfb"
+        }
+    },
+    "1675391971327993:426333": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327993_426333.oprfb"
+        }
+    }
+}

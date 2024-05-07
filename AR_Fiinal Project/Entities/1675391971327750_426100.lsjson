@@ -1,0 +1,39 @@
+{
+    "1675391971327750:426100": {
+        "IResourceController": {
+            "name": "Screen",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654216003016582:285066",
+            "fileId": "1675391971327866:426242",
+            "originalId": "1675391971327867:426243",
+            "publicId": "1675391971328048:426392",
+            "expected_hash": "bd2778481e2a2305f905dbedd5137eda"
+        },
+        "IResourceManager": {
+            "uid": "1654216003016582:285066",
+            "name": "Files/File_1675391971327866_426242",
+            "flags": 1
+        }
+    },
+    "1675391971327866:426242": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327866_426242"
+        }
+    },
+    "1675391971327867:426243": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327867_426243.lsmat"
+        }
+    },
+    "1675391971328048:426392": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Shared Value Examples/Simple Shared Score/Screen.lsmat",
+                "hash": "1a0976a77ab3b0774d0bd1bff0ab0464"
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1653454363611301:2291380": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327747:426075": {
+        "IResourceController": {
+            "name": "SimpleScoreController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1653454363611301:2291380",
+            "fileId": "1675391971327821:426209",
+            "publicId": "1675391971328047:426390",
+            "expected_hash": "5639d3ad4b3e59314f259b9066737298"
+        },
+        "IResourceManager": {
+            "uid": "1653454363611301:2291380",
+            "name": "Files/File_1675391971327821_426209.js",
+            "flags": 1
+        }
+    },
+    "1675391971327821:426209": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327821_426209.js"
+        }
+    },
+    "1675391971328047:426390": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Shared Value Examples/Simple Shared Score/SimpleScoreController.js",
+                "hash": "5639d3ad4b3e59314f259b9066737298"
+            }
+        }
+    }
+}

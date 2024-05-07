@@ -1,0 +1,38 @@
+{
+    "1655333722796206:4016050": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327752:426112": {
+        "IResourceController": {
+            "name": "PlayTweenOnEvent",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1655333722796206:4016050",
+            "fileId": "1675391971327889:426260",
+            "publicId": "1675391971328039:426363",
+            "expected_hash": "9f36b5d0c04c365d234491f7e80cd101"
+        },
+        "IResourceManager": {
+            "uid": "1655333722796206:4016050",
+            "name": "Files/File_1675391971327889_426260.js",
+            "flags": 1
+        }
+    },
+    "1675391971327889:426260": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327889_426260.js"
+        }
+    },
+    "1675391971328039:426363": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Events Examples/Play Tween On Event/PlayTweenOnEvent.js",
+                "hash": "9f36b5d0c04c365d234491f7e80cd101"
+            }
+        }
+    }
+}

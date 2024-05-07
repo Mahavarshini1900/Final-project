@@ -1,0 +1,26 @@
+{
+    "1675391971328065:426454": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Resources/Colocated Resources"
+            }
+        }
+    },
+    "1675391971328238:426588": {
+        "IResourceController": {
+            "name": "Colocated Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328065:426454",
+            "resources": [
+                "1675391971327754:426129",
+                "1675391971327753:426127",
+                "1675391971327758:426165",
+                "1675391971327758:426166",
+                "1675391971327754:426128"
+            ]
+        }
+    }
+}

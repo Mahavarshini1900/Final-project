@@ -1,0 +1,39 @@
+{
+    "1675391971327758:426166": {
+        "IResourceController": {
+            "name": "Landmarks3D",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1673043508097844:224039",
+            "fileId": "1675391971328011:426347",
+            "originalId": "1675391971328013:426348",
+            "publicId": "1675391971328079:426503",
+            "expected_hash": "eb82df7df74dd91e438564719310225a"
+        },
+        "IResourceManager": {
+            "uid": "1673043508097844:224039",
+            "name": "Files/File_1675391971328011_426347",
+            "flags": 1
+        }
+    },
+    "1675391971328011:426347": {
+        "IFileManager": {
+            "path": "Files/File_1675391971328011_426347"
+        }
+    },
+    "1675391971328013:426348": {
+        "IFileManager": {
+            "path": "Files/File_1675391971328013_426348.lsmat"
+        }
+    },
+    "1675391971328079:426503": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Resources/Colocated Resources/Landmarks3D.lsmat",
+                "hash": "5211622261550f9557b3e1072d3f34bc"
+            }
+        }
+    }
+}

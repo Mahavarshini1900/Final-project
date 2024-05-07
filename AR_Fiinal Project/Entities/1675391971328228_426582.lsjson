@@ -1,0 +1,23 @@
+{
+    "1675391971328055:426420": {
+        "IResourceController": {
+            "public": {
+                "path": "Shared Resources"
+            }
+        }
+    },
+    "1675391971328228:426582": {
+        "IResourceController": {
+            "name": "Shared Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328055:426420",
+            "resources": [
+                "1675391971328226:426580",
+                "1675391971328228:426581"
+            ]
+        }
+    }
+}

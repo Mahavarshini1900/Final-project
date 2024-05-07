@@ -1,0 +1,80 @@
+{
+    "1658178954004527:3961075": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "ae84d3506906e7a365f75001d40e4a7f"
+                    },
+                    "v": "1675391971327923:426284"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "512",
+                "compressedSize": "389",
+                "extension": "png",
+                "originalRAM": "4096",
+                "originalSize": "533",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1675391971327921:426283"
+        }
+    },
+    "1675391971327754:426128": {
+        "IResourceController": {
+            "name": "circle-32",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1658178954004527:3961075",
+            "fileId": "1675391971327918:426281",
+            "originalId": "1675391971327920:426282",
+            "publicId": "1675391971328065:426455",
+            "expected_hash": "c703c7db18df6d046040fe97845e9606",
+            "additional": {
+                "originHash": "ae84d3506906e7a365f75001d40e4a7f",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1658178954004527:3961075",
+            "name": "Files/File628.jpg",
+            "flags": 1
+        }
+    },
+    "1675391971327918:426281": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327918_426281.pvr"
+        }
+    },
+    "1675391971327920:426282": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327920_426282.png"
+        }
+    },
+    "1675391971327921:426283": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327921_426283.png"
+        }
+    },
+    "1675391971327923:426284": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327923_426284.pvr"
+        }
+    },
+    "1675391971328065:426455": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Resources/Colocated Resources/circle-32.png",
+                "hash": "ae84d3506906e7a365f75001d40e4a7f"
+            }
+        }
+    }
+}

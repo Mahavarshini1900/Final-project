@@ -1,0 +1,39 @@
+{
+    "1675391971327987:426329": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327987_426329.fbx"
+        }
+    },
+    "1675391971328057:426428": {
+        "IResourceController": {
+            "public": {
+                "path": "Shared Resources/Meshes/Star.fbx",
+                "hash": "af54c02e37b5e89ee83a67e1838eb30c"
+            }
+        }
+    },
+    "1675391971328225:426579": {
+        "IResourceController": {
+            "name": "Star",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1675391971327987:426329",
+            "publicId": "1675391971328057:426428",
+            "expected_hash": "af54c02e37b5e89ee83a67e1838eb30c",
+            "resources": [
+                "1675391971328225:426578",
+                "1675391971327757:426160"
+            ],
+            "additional": {
+                "materialMapping": [
+                    {
+                        "k": "Material",
+                        "v": "1669671761446013:458619"
+                    }
+                ]
+            }
+        }
+    }
+}

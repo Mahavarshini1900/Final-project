@@ -1,0 +1,38 @@
+{
+    "1656442119480610:61299": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327753:426121": {
+        "IResourceController": {
+            "name": "SharedScoreboard",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1656442119480610:61299",
+            "fileId": "1675391971327904:426271",
+            "publicId": "1675391971328043:426375",
+            "expected_hash": "e25537d2436d1bef9f12915f3c01dd42"
+        },
+        "IResourceManager": {
+            "uid": "1656442119480610:61299",
+            "name": "Files/File_1675391971327904_426271.js",
+            "flags": 1
+        }
+    },
+    "1675391971327904:426271": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327904_426271.js"
+        }
+    },
+    "1675391971328043:426375": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Persistence Examples/Scoreboard/SharedScoreboard.js",
+                "hash": "e25537d2436d1bef9f12915f3c01dd42"
+            }
+        }
+    }
+}

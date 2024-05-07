@@ -1,0 +1,38 @@
+{
+    "1655499462630141:1074589": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327752:426117": {
+        "IResourceController": {
+            "name": "OwnedValueEntity",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1655499462630141:1074589",
+            "fileId": "1675391971327898:426266",
+            "publicId": "1675391971328041:426369",
+            "expected_hash": "57d0beb9cab50bb9fd07c4a2bc6739af"
+        },
+        "IResourceManager": {
+            "uid": "1655499462630141:1074589",
+            "name": "Files/File_1675391971327898_426266.js",
+            "flags": 1
+        }
+    },
+    "1675391971327898:426266": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327898_426266.js"
+        }
+    },
+    "1675391971328041:426369": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Events Examples/Modification Events/OwnedValueEntity.js",
+                "hash": "57d0beb9cab50bb9fd07c4a2bc6739af"
+            }
+        }
+    }
+}

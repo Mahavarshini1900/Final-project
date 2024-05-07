@@ -1,0 +1,39 @@
+{
+    "1675391971327758:426164": {
+        "IResourceController": {
+            "name": "Orange",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1669674054172388:1823964",
+            "fileId": "1675391971328006:426343",
+            "originalId": "1675391971328007:426344",
+            "publicId": "1675391971328078:426499",
+            "expected_hash": "948b45dff434a22823a1d03dc544cd80"
+        },
+        "IResourceManager": {
+            "uid": "1669674054172388:1823964",
+            "name": "Files/File_1675391971328006_426343",
+            "flags": 1
+        }
+    },
+    "1675391971328006:426343": {
+        "IFileManager": {
+            "path": "Files/File_1675391971328006_426343"
+        }
+    },
+    "1675391971328007:426344": {
+        "IFileManager": {
+            "path": "Files/File_1675391971328007_426344.lsmat"
+        }
+    },
+    "1675391971328078:426499": {
+        "IResourceController": {
+            "public": {
+                "path": "Shared Resources/Materials/Orange.lsmat",
+                "hash": "11bfc9f07e998fc7ce29d014b482e9be"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1675391971327755:426144": {
+        "IResourceController": {
+            "name": "Local Hands",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1665783925627908:7578296",
+            "fileId": "1675391971327948:426301",
+            "originalId": "1675391971327949:426302",
+            "publicId": "1675391971328073:426484",
+            "expected_hash": "9097154be06ce9e11d208d119862a52f"
+        },
+        "IResourceManager": {
+            "uid": "1665783925627908:7578296",
+            "name": "Files/File_1675391971327948_426301",
+            "flags": 1
+        }
+    },
+    "1675391971327948:426301": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327948_426301"
+        }
+    },
+    "1675391971327949:426302": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327949_426302.lsmat"
+        }
+    },
+    "1675391971328073:426484": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Avatar/Materials/Local Hands.lsmat",
+                "hash": "ac2d3ba3dca1bd3207d73e7f6b707afc"
+            }
+        }
+    }
+}

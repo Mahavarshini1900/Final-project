@@ -1,0 +1,38 @@
+{
+    "1657574709445075:65571": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327753:426123": {
+        "IResourceController": {
+            "name": "StoragePropLookup",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1657574709445075:65571",
+            "fileId": "1675391971327912:426276",
+            "publicId": "1675391971328059:426438",
+            "expected_hash": "74c7a412c6bbe38238c240b6c0758bcb"
+        },
+        "IResourceManager": {
+            "uid": "1657574709445075:65571",
+            "name": "Files/File_1675391971327912_426276.js",
+            "flags": 1
+        }
+    },
+    "1675391971327912:426276": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327912_426276.js"
+        }
+    },
+    "1675391971328059:426438": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Core/StoragePropLookup.js",
+                "hash": "74c7a412c6bbe38238c240b6c0758bcb"
+            }
+        }
+    }
+}

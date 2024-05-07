@@ -1,0 +1,42 @@
+{
+    "1675391971327744:426059": {
+        "IResourceController": {
+            "name": "reflection_params_0",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1652825074861829:1270970",
+            "fileId": "1675391971327787:426184",
+            "originalId": "1675391971327788:426185",
+            "publicId": "1675391971328070:426472",
+            "expected_hash": "f15e73a75b6d7cb33993b44f1a250618",
+            "additional": {
+                "originHash": "f15e73a75b6d7cb33993b44f1a250618"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1652825074861829:1270970",
+            "name": "Files/File234.jpg",
+            "flags": 1
+        }
+    },
+    "1675391971327787:426184": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327787_426184.pvr"
+        }
+    },
+    "1675391971327788:426185": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327788_426185.pvr"
+        }
+    },
+    "1675391971328070:426472": {
+        "IResourceController": {
+            "public": {
+                "path": "Avatar Controller/Heart Glasses Avatar/Textures/reflection_params_0.pvr",
+                "hash": "f15e73a75b6d7cb33993b44f1a250618"
+            }
+        }
+    }
+}

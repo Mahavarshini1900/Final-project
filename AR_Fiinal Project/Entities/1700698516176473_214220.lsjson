@@ -1,0 +1,39 @@
+{
+    "1700698516174955:214219": {
+        "IFileManager": {
+            "path": "Files/File_1700698516174955_214219"
+        }
+    },
+    "1700698516176473:214220": {
+        "IResourceController": {
+            "name": "Button PBR",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1700698516176476:214221",
+            "fileId": "1700698516174955:214219",
+            "originalId": "1700698516198218:214227",
+            "publicId": "1700698516428255:214307",
+            "expected_hash": "3c798bbdf313c4752db951756ecf57c1"
+        },
+        "IResourceManager": {
+            "uid": "1700698516176476:214221",
+            "name": "Files/File_1700698516174955_214219",
+            "flags": 1
+        }
+    },
+    "1700698516198218:214227": {
+        "IFileManager": {
+            "path": "Files/File_1700698516198218_214227.lsmat"
+        }
+    },
+    "1700698516428255:214307": {
+        "IResourceController": {
+            "public": {
+                "path": "Toolbelt/Button PBR.lsmat",
+                "hash": "d5f2fc461c1d7a02591fb6f303fe866f"
+            }
+        }
+    }
+}

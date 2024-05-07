@@ -1,0 +1,17 @@
+{
+    "1675391971327753:426127": {
+        "IResourceController": {
+            "name": "Colocated Landmarks 3D Mesh",
+            "type": 3,
+            "subtype": 6,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1658178911337891:3879725"
+        },
+        "IResourceManager": {
+            "uid": "1658178911337891:3879725",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

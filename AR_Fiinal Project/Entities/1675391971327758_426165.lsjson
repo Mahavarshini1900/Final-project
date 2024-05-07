@@ -1,0 +1,39 @@
+{
+    "1675391971327758:426165": {
+        "IResourceController": {
+            "name": "Landmarks2D",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1673043365251768:154645",
+            "fileId": "1675391971328009:426345",
+            "originalId": "1675391971328010:426346",
+            "publicId": "1675391971328078:426502",
+            "expected_hash": "aee1b9a01d21f27441358cdf6fd60124"
+        },
+        "IResourceManager": {
+            "uid": "1673043365251768:154645",
+            "name": "Files/File_1675391971328009_426345",
+            "flags": 1
+        }
+    },
+    "1675391971328009:426345": {
+        "IFileManager": {
+            "path": "Files/File_1675391971328009_426345"
+        }
+    },
+    "1675391971328010:426346": {
+        "IFileManager": {
+            "path": "Files/File_1675391971328010_426346.lsmat"
+        }
+    },
+    "1675391971328078:426502": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Resources/Colocated Resources/Landmarks2D.lsmat",
+                "hash": "1c7b8c799ac58339e1c487055fd2f8e6"
+            }
+        }
+    }
+}

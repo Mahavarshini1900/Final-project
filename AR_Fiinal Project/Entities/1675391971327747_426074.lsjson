@@ -1,0 +1,38 @@
+{
+    "1653450479215706:134655": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327747:426074": {
+        "IResourceController": {
+            "name": "SyncRealtimeStore",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1653450479215706:134655",
+            "fileId": "1675391971327820:426208",
+            "publicId": "1675391971328062:426446",
+            "expected_hash": "aaa5aaa5a0ab34f52b3119968c60d984"
+        },
+        "IResourceManager": {
+            "uid": "1653450479215706:134655",
+            "name": "Files/File_1675391971327820_426208.js",
+            "flags": 1
+        }
+    },
+    "1675391971327820:426208": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327820_426208.js"
+        }
+    },
+    "1675391971328062:426446": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Components/SyncRealtimeStore.js",
+                "hash": "aaa5aaa5a0ab34f52b3119968c60d984"
+            }
+        }
+    }
+}

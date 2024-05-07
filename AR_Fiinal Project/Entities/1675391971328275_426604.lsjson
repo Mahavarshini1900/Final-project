@@ -1,0 +1,23 @@
+{
+    "1675391971328074:426488": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Avatar/Scripts"
+            }
+        }
+    },
+    "1675391971328275:426604": {
+        "IResourceController": {
+            "name": "Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328074:426488",
+            "resources": [
+                "1675391971327754:426135",
+                "1675391971327755:426143"
+            ]
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "1651616764083431:80789": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "1320",
+                "compressedSize": "794",
+                "extension": "mesh",
+                "originalRAM": "1320",
+                "originalSize": "794",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "3",
+                                "semantic": "color"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675391971327769:426171"
+        }
+    },
+    "1675391971327743:426049": {
+        "IResourceController": {
+            "name": "Box",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1651616764083431:80789",
+            "fileId": "1675391971327768:426170",
+            "publicId": "1675391971328056:426422",
+            "expected_hash": "621da74e06cc402b895f39376927a9d1",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "3",
+                            "semantic": "color"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1651616764083431:80789",
+            "name": "Files/File_1675391971327768_426170.mesh",
+            "flags": 1
+        }
+    },
+    "1675391971327768:426170": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327768_426170.mesh"
+        }
+    },
+    "1675391971327769:426171": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327769_426171.mesh"
+        }
+    },
+    "1675391971328056:426422": {
+        "IResourceController": {
+            "public": {
+                "path": "Shared Resources/Meshes/Box.mesh",
+                "hash": "621da74e06cc402b895f39376927a9d1"
+            }
+        }
+    }
+}

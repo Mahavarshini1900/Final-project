@@ -1,0 +1,38 @@
+{
+    "1652726268286522:79857": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1675391971327744:426055": {
+        "IResourceController": {
+            "name": "Instantiator",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1652726268286522:79857",
+            "fileId": "1675391971327779:426178",
+            "publicId": "1675391971328062:426444",
+            "expected_hash": "3ffa269e10afded9eb343d8534b61757"
+        },
+        "IResourceManager": {
+            "uid": "1652726268286522:79857",
+            "name": "Files/File_1675391971327779_426178.js",
+            "flags": 1
+        }
+    },
+    "1675391971327779:426178": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327779_426178.js"
+        }
+    },
+    "1675391971328062:426444": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework/Components/Instantiator.js",
+                "hash": "3ffa269e10afded9eb343d8534b61757"
+            }
+        }
+    }
+}

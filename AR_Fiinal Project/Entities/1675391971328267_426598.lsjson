@@ -1,0 +1,22 @@
+{
+    "1675391971328071:426476": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Avatar/Meshes/LeftHandModel"
+            }
+        }
+    },
+    "1675391971328267:426598": {
+        "IResourceController": {
+            "name": "LeftHandModel",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1675391971328071:426476",
+            "resources": [
+                "1675391971328267:426597"
+            ]
+        }
+    }
+}

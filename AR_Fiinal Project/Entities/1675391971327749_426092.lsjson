@@ -1,0 +1,125 @@
+{
+    "1654198602777646:2360739": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "21824",
+                "compressedSize": "9016",
+                "extension": "mesh",
+                "originalRAM": "21824",
+                "originalSize": "9016",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "boneData"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1675391971327849:426230"
+        }
+    },
+    "1675391971327749:426092": {
+        "IResourceController": {
+            "name": "C_monitor_GEO",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1654198602777646:2360739",
+            "fileId": "1675391971327848:426229",
+            "publicId": "1675391971328048:426394",
+            "expected_hash": "8288621f94f8002e31905217b7297537",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "boneData"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1654198602777646:2360739",
+            "name": "Files/File_1675391971327848_426229.mesh",
+            "flags": 1
+        }
+    },
+    "1675391971327848:426229": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327848_426229.mesh"
+        }
+    },
+    "1675391971327849:426230": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327849_426230.mesh"
+        }
+    },
+    "1675391971328048:426394": {
+        "IResourceController": {
+            "public": {
+                "path": "Sync Framework Examples/Shared Value Examples/Simple Shared Score/C_monitor_GEO.mesh",
+                "hash": "8288621f94f8002e31905217b7297537"
+            }
+        }
+    }
+}

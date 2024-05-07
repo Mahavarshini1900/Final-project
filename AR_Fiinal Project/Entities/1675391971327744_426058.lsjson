@@ -1,0 +1,42 @@
+{
+    "1675391971327744:426058": {
+        "IResourceController": {
+            "name": "white",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1652825074274298:1270760",
+            "fileId": "1675391971327784:426182",
+            "originalId": "1675391971327786:426183",
+            "publicId": "1675391971328070:426471",
+            "expected_hash": "8588ed5a54012f08bde8e6e7913bd90d",
+            "additional": {
+                "originHash": "8588ed5a54012f08bde8e6e7913bd90d"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1652825074274298:1270760",
+            "name": "Files/File208.jpg",
+            "flags": 1
+        }
+    },
+    "1675391971327784:426182": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327784_426182.png"
+        }
+    },
+    "1675391971327786:426183": {
+        "IFileManager": {
+            "path": "Files/File_1675391971327786_426183.png"
+        }
+    },
+    "1675391971328070:426471": {
+        "IResourceController": {
+            "public": {
+                "path": "Avatar Controller/Heart Glasses Avatar/Textures/white.png",
+                "hash": "8588ed5a54012f08bde8e6e7913bd90d"
+            }
+        }
+    }
+}
